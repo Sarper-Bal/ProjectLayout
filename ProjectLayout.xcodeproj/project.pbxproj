@@ -14,6 +14,7 @@
 		F8E9DB1C29D06D5300774957 /* ProjectLayout.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8E9DB1A29D06D5300774957 /* ProjectLayout.xcdatamodeld */; };
 		F8E9DB1E29D06D5500774957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8E9DB1D29D06D5500774957 /* Assets.xcassets */; };
 		F8E9DB2129D06D5500774957 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8E9DB1F29D06D5500774957 /* LaunchScreen.storyboard */; };
+		F8E9DB2B29D06FA800774957 /* ekran-alintisi2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F8E9DB2A29D06FA800774957 /* ekran-alintisi2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F8E9DB1D29D06D5500774957 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8E9DB2029D06D5500774957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8E9DB2229D06D5500774957 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8E9DB2A29D06FA800774957 /* ekran-alintisi2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ekran-alintisi2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		F8E9DB1029D06D5300774957 /* ProjectLayout */ = {
 			isa = PBXGroup;
 			children = (
+				F8E9DB2A29D06FA800774957 /* ekran-alintisi2.jpg */,
 				F8E9DB1129D06D5300774957 /* AppDelegate.swift */,
 				F8E9DB1329D06D5300774957 /* SceneDelegate.swift */,
 				F8E9DB1529D06D5300774957 /* ViewController.swift */,
@@ -131,6 +134,7 @@
 				F8E9DB2129D06D5500774957 /* LaunchScreen.storyboard in Resources */,
 				F8E9DB1E29D06D5500774957 /* Assets.xcassets in Resources */,
 				F8E9DB1929D06D5300774957 /* Main.storyboard in Resources */,
+				F8E9DB2B29D06FA800774957 /* ekran-alintisi2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
